@@ -1,0 +1,5 @@
+AuthName "Page privee"
+AuthType Basic
+AuthUserFile "/home/uucgqfnk/.htpasswd"
+Require valid-user
+

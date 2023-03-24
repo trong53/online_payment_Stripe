@@ -1,0 +1,12 @@
+{
+    "name": "sitedigital/runner-paymentstripe",
+    "description": "Sell the Gitlab Runner formation with payment via Stripe",
+    "authors": [
+        {
+            "name": "sitedigital"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^10.7"
+    }
+}
