@@ -12,5 +12,6 @@
 ## Click on 'Procéder au paiement':
 ![2](https://github.com/trong53/online_payment_Stripe/assets/107623849/872f00f5-3875-4285-ab3e-35f4cfdb060e)
 
-## Après le paiement:
+## Après le paiement: (la vérification du numéro de la carte, du tuteur de la carte, de CVC, ... est en place)
 ![3](https://github.com/trong53/online_payment_Stripe/assets/107623849/ec739fd6-6ec5-4805-9cbc-0d1e47fad3c1)
+## et le montant est enregistré dans le compte Stripe du vendeur.
